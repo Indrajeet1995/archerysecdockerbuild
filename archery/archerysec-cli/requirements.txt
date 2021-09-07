@@ -1,0 +1,7 @@
+certifi
+chardet
+Click
+idna
+pyArchery
+requests
+urllib3
